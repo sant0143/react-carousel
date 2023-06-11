@@ -16,10 +16,10 @@ function Slider({ slides }) {
         {slides.map((slide) => (
           <Carousel.Item key={slide.image} interval={slide.interval}>
             <LazyLoadImage
+              effect="blur"
               className="d-block w-100"
               src={slide.image}
               alt="First slide"
-              effect="blur"
             />
           </Carousel.Item>
         ))}
