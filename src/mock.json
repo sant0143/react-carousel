@@ -1,22 +1,18 @@
 [
   {
     "image": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
-    "interval": 1500,
-    "placeholder": "https://drive.google.com/file/d/16re8BiOUljpQfzWDfyahVnalRbEI9Vqf/view?usp=drive_link"
+    "interval": 1500
   },
   {
     "image": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/nGxUxi3PfXDRm7Vg95VBNgNM8yc.jpg",
-    "interval": 1500,
-    "placeholder": "https://drive.google.com/file/d/1rG2cf4P9zo43_CyoifkVnyqkb8qLRzbr/view?usp=drive_link"
+    "interval": 1500
   },
   {
     "image": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/h8gHn0OzBoaefsYseUByqsmEDMY.jpg",
-    "interval": 1500,
-    "placeholder": "https://drive.google.com/file/d/17WsIKrryqKmuxjDGqtBgQ_g107WV5LBZ/view?usp=drive_link"
+    "interval": 1500
   },
   {
     "image": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/vLT1Imot1ydxBncHq6V8yJ4emYh.jpg",
-    "interval": 1500,
-    "placeholder": "https://drive.google.com/file/d/1g-0e7kGB6JNP-Fqa2_B1SmIHoFVawoy7/view?usp=drive_link"
+    "interval": 1500
   }
 ]
