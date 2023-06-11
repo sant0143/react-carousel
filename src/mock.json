@@ -1,22 +1,18 @@
 [
   {
-    "image": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
-    "interval": 1500,
-    "placeholder": "https://ibb.co/y8SzXHP"
+    "image": "https://res.cloudinary.com/doe11iaom/image/upload/v1686507087/react%20carousel/batman_11zon_1_gvs4un.jpg",
+    "interval": 1500
   },
   {
-    "image": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/nGxUxi3PfXDRm7Vg95VBNgNM8yc.jpg",
-    "interval": 1500,
-    "placeholder": "https://ibb.co/55rkQH3"
+    "image": "https://res.cloudinary.com/doe11iaom/image/upload/v1686507087/react%20carousel/spiderman_11zon_zjcq4y.jpg",
+    "interval": 1500
   },
   {
-    "image": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/h8gHn0OzBoaefsYseUByqsmEDMY.jpg",
-    "interval": 1500,
-    "placeholder": "https://ibb.co/jyGYDPB"
+    "image": "https://res.cloudinary.com/doe11iaom/image/upload/v1686507086/react%20carousel/john_wick_11zon_ih2irc.jpg",
+    "interval": 1500
   },
   {
-    "image": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/vLT1Imot1ydxBncHq6V8yJ4emYh.jpg",
-    "interval": 1500,
-    "placeholder": "https://ibb.co/VCtHBN8"
+    "image": "https://res.cloudinary.com/doe11iaom/image/upload/v1686507076/react%20carousel/avatar_11zon_g7fgmw.jpg",
+    "interval": 1500
   }
 ]
