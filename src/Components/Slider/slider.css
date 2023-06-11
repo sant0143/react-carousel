@@ -4,5 +4,8 @@
   border-radius: 50%;
 }
 .container {
-  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
