@@ -1,20 +1,18 @@
 [
   {
     "image": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
-    "title": "The Dark Knight",
-    "subTitle": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
     "interval": 1500
   },
   {
     "image": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/nGxUxi3PfXDRm7Vg95VBNgNM8yc.jpg",
-    "title": "Spider-Man: Across the Spider-Verse ",
-    "subTitle": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
     "interval": 1500
   },
   {
     "image": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/h8gHn0OzBoaefsYseUByqsmEDMY.jpg",
-    "title": "John Wick: Chapter 4",
-    "subTitle": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+    "interval": 1500
+  },
+  {
+    "image": "https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/vLT1Imot1ydxBncHq6V8yJ4emYh.jpg",
     "interval": 1500
   }
 ]
