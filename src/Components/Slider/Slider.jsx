@@ -21,6 +21,7 @@ function Slider({ slides }) {
               src={slide.image}
               alt="First slide"
               effect="blur"
+              placeholderSrc={slide.placeholder}
             />
           </Carousel.Item>
         ))}
