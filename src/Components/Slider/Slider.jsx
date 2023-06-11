@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Carousel from "react-bootstrap/Carousel";
 import Container from "react-bootstrap/Container";
+import { LazyLoadImage } from "react-lazy-load-image-component";
 import "./slider.css";
 
 function Slider({ slides }) {
@@ -14,7 +15,7 @@ function Slider({ slides }) {
       <Carousel activeIndex={index} onSelect={handleSelect}>
         {slides.map((slide) => (
           <Carousel.Item key={slide.image} interval={slide.interval}>
-            <img
+            <LazyLoadImage
               className="d-block w-100"
               src={slide.image}
               alt="First slide"
