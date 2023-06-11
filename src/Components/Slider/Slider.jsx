@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Carousel from "react-bootstrap/Carousel";
-import Container from "react-bootstrap/Container";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import "react-lazy-load-image-component/src/effects/blur.css";
 import "./slider.css";
@@ -12,7 +11,7 @@ function Slider({ slides }) {
     setIndex(selectedIndex);
   };
   return (
-    <Container className="container">
+    <div className="container">
       <Carousel activeIndex={index} onSelect={handleSelect}>
         {slides.map((slide) => (
           <Carousel.Item key={slide.image} interval={slide.interval}>
@@ -26,7 +25,7 @@ function Slider({ slides }) {
           </Carousel.Item>
         ))}
       </Carousel>
-    </Container>
+    </div>
   );
 }
 
