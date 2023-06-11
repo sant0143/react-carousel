@@ -3,9 +3,3 @@
   height: 10px;
   border-radius: 50%;
 }
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
