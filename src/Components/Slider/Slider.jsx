@@ -19,7 +19,7 @@ function Slider({ slides }) {
               className="d-block w-100"
               src={slide.image}
               alt="First slide"
-              loading="lazy"
+              effect="blur"
             />
           </Carousel.Item>
         ))}
